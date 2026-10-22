@@ -1,0 +1,4 @@
+caracteristicas de um peugeot: tem roda, janela eletrica,
+freios,pneu,motor,pistao,juntas,parafusos,farol,botao,chave,ingniçao,
+banco,cinto,volante,ciaxa de som,freio de mao,marcha,gasolina,radiador,agua,
+ar-condicionado,
